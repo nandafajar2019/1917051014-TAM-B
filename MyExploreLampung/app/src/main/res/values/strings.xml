@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MyExploreLampung</string>
+    <string name="name_wisata">Nama Wisata</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Menara Siger</item>
+        <item>Taman Gajah</item>
+        <item>Pantai Pahawang</item>
+        <item>TN Way Kambas</item>
+        <item>Pantai Gigi Hiu</item>
+        <item>Pulau Anak Krakatau</item>
+        </string-array>
+
+    <string-array name="data_description">
+         <item>Menara Siger adalah sebuah tempat yang menjadi titik nol di Pulau Sumatera bagian
+             selatan. Menara yang berbentuk seperti siger atau mahkota ini diresmikan pada
+             30 April 2008.</item>
+        <item>
+            Taman Gajah adalah sebuah taman yang terletak di pusat kota Bandar Lampung.
+        </item>
+        <item>
+            Pulau Pahawang terkenal dengan keindahan pantai dan bawah lautnya. Sudah banyak yang
+            mengakui pesonanya, baik wisatawan nusantara maupun wisatawan lokal Lampung.
+            Dalam situasi normal pulau ini selalu ramai setiap akhir pekan dan hari libur nasional.
+        </item>
+        <item>
+            Taman Nasional Way Kambas (TNWK) adalah taman nasional perlindungan gajah yang terletak
+            di daerah Lampung tepatnya di Kecamatan Labuhan Ratu, Lampung Timur, Indonesia.
+            Selain di Way Kambas, sekolah gajah (Pusat Latihan Gajah) juga bisa ditemui di Minas,
+            Riau. Gajah Sumatra (Elephas maximus sumatranus) yang hidup di kawasan ini semakin berkurang jumlahnya.
+        </item>
+        <item>
+            Pantai Gigi Hiu merupakan pantai cantik yang memiliki jajaran batuan karang yang tersebar
+            di sepanjang pantai. Batuan karang itulah yang membuat pantai ini berbeda dari pantai
+            yang lain.
+        </item>
+        <item>
+            Pulau Anak Krakatau adalah suatu pulau volkanik kecil, yang muncul di antara Pulau Sertung
+            (Verlaten Eiland) dan Pulau Rakata Kecil (Lang Eiland) pada tahun 1928, di tempat yang
+            dulunya adalah pantai dengan kedalaman 27 m. Pulau ini adalah pulau termuda di Indonesia.
+        </item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/menara_siger</item>
+        <item>@drawable/taman_gajah</item>
+        <item>@drawable/pulau_pahawang</item>
+        <item>@drawable/taman_waykambas</item>
+        <item>@drawable/pantai_gigihiu</item>
+        <item>@drawable/pulau_anakkrakatau</item>
+    </array>
+</resources>
